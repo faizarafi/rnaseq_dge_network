@@ -9,7 +9,7 @@ This notebook demonstrates the analysis steps used in an RNA-seq project involvi
 
 ## 📂 Contents
 
-- `rnaseq_analysis.ipynb`: Step-by-step notebook for processing a counts matrix, performing normalization and differential expression with DESeq2, and generating basic plots (e.g., PCA, venn, volcano, heatmap, upset plots). Function annotation analysis with Gene ontology terms is also conducted. Part II involved gene regulatory network analysis with dap-seq data and WCGNA.
+- `dge_network_proj_workflow.ipynb`: Step-by-step notebook for processing a counts matrix, performing normalization and differential expression with DESeq2, and generating basic plots (e.g., PCA, venn, volcano, heatmap, upset plots). Function annotation analysis with Gene ontology terms is also conducted. Part II involved gene regulatory network analysis with dap-seq data and WCGNA.
 
 
 ## 🔒 Disclaimer
